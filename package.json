@@ -1,0 +1,32 @@
+{
+  "name": "cripar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "framer-motion": "^12.29.2",
+    "html-react-parser": "^5.2.12",
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3"
+  }
+}

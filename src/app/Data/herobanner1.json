@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/img/h1.png",
+    "title": "Envoyez vos fichiers aux formats (PdF, EPS, PSD) et faites-vous livrer.",
+    "desc": "Avec Indigo, les services sont rapides et nickels.",
+    "btnName": "Nos services",
+    "btnUrl": "/about",
+    "number": "(+237)694189032"
+  },
+  {
+    "img": "/assets/img/h2.png",
+    "title": "Conception soignée, maîtrisée et pensée pour un rendu optimal.",
+    "desc": "Nous faisons dans la prépresse, le design, la création le scan et des conseils.",
+    "btnName": "Nos services",
+    "btnUrl": "/about",
+    "number": "(+237)680876087"
+  },
+  {
+    "img": "/assets/img/bloc_note.png",
+    "title": "Faconnage de qualité pour des impressions parfaitement finies.",
+    "desc": "Gravures, reliures pelliculage et coupe massicot.",
+    "btnName": "Nos services",
+    "btnUrl": "/about",
+    "number": "243667172"
+  }  
+]

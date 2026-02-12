@@ -1,0 +1,8 @@
+echo "node_modules/
+.next/
+out/
+build/
+.cache/
+*.exe
+*.zip
+*.node" > .gitignore

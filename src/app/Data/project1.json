@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/img/portfolio_img_2.jpg",   
+    "title": "Exhaust System Service",
+    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage."
+  },
+  {
+    "img": "/assets/img/portfolio_img_3.jpg",   
+    "title": "Full Vehicle Inspection",
+    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage."
+  },
+  {
+    "img": "/assets/img/portfolio_img_4.jpg",   
+    "title": "Complete Brake Service",
+    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage."
+  },
+  {
+    "img": "/assets/img/portfolio_img_1.jpg",   
+    "title": "Suspension Check-Up",
+    "desc": "Proper insulation and ventilation are key  also offer Ice Guard services to prevent ice buildup and damage."
+  }          
+]

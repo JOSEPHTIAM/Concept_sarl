@@ -1,0 +1,64 @@
+"next_1" et "unique_nextjs"
+
+
+
+|||||||||||||||     LES COMMANDES   ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+1__ Pour créer un nouveau projet :
+npx create-next-app@latest nomProjet --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
+
+2__ Pour pour installer les paquets du projet :
+pnpm i
+
+3__ Pour lancer le serveur :
+pnpm dev
+
+4__ Pour installez toutes les dépendances dans un projet déjà existant :
+npm install
+npm install @neondatabase/serverless
+
+5__ Pour le serveur de développement local :
+localhost:3000/seed
+
+
+
+
+
+
+
+
+
+NB : Pour Pour l'image en Web
+         <Image
+           src="/hero-desktop.png"
+           width={1000}
+           height={760}
+           className="hidden md:block"
+           alt="Screenshots of the dashboard project showing desktop version"
+         />
+NB : Pour l'image en Mobile
+         <Image
+           src="/hero-mobile.png"
+           width={560}
+           height={620}
+           className="block md:hidden"
+           alt="Screenshot of the dashboard project showing mobile version"
+         />
+
+NB : usePathname , pour l'affichage des liens actifs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
